@@ -1,0 +1,212 @@
+{
+    "BushnevYuri": {
+        "e2e-automation-pipeline": [
+            [
+                "/data/GitHubMining/RawDataSample/java/BushnevYuri/e2e-automation-pipeline/src/main/java/steps/api/BlazeDemoAPISteps.java",
+                "/data/GitHubMining/RawDataSample/java/BushnevYuri/e2e-automation-pipeline/src/test/java/api/BlazeDemoAPITest.java"
+            ]
+        ]
+    },
+    "yizhuoyan": {
+        "java-programming-english-word-tops": [
+            [
+                "/data/GitHubMining/RawDataSample/java/yizhuoyan/java-programming-english-word-tops/src/main/java/com/yizhuoyan/projects/App.java",
+                "/data/GitHubMining/RawDataSample/java/yizhuoyan/java-programming-english-word-tops/src/test/java/com/yizhuoyan/projects/AppTest.java"
+            ]
+        ]
+    },
+    "qmetric": {
+        "spark-authentication": [
+            [
+                "/data/GitHubMining/RawDataSample/java/qmetric/spark-authentication/src/main/java/com/qmetric/spark/authentication/BasicAuthenticationFilter.java",
+                "/data/GitHubMining/RawDataSample/java/qmetric/spark-authentication/src/test/java/com/qmetric/spark/authentication/BasicAuthenticationFilterTest.java"
+            ]
+        ]
+    },
+    "OneSourceCat": {
+        "XxlJob-Hessian-RCE": [
+            [
+                "/data/GitHubMining/RawDataSample/java/OneSourceCat/XxlJob-Hessian-RCE/src/main/java/com/example/App.java",
+                "/data/GitHubMining/RawDataSample/java/OneSourceCat/XxlJob-Hessian-RCE/src/test/java/com/example/AppTest.java"
+            ]
+        ]
+    },
+    "michaeltandy": {
+        "log4j-json": [
+            [
+                "/data/GitHubMining/RawDataSample/java/michaeltandy/log4j-json/src/main/java/uk/me/mjt/log4jjson/SimpleJsonLayout.java",
+                "/data/GitHubMining/RawDataSample/java/michaeltandy/log4j-json/src/test/java/uk/me/mjt/log4jjson/SimpleJsonLayoutTest.java"
+            ]
+        ]
+    },
+    "papertrail": {
+        "logback-syslog4j": [
+            [
+                "/data/GitHubMining/RawDataSample/java/papertrail/logback-syslog4j/src/main/java/com/papertrailapp/logback/Syslog4jAppender.java",
+                "/data/GitHubMining/RawDataSample/java/papertrail/logback-syslog4j/src/test/java/com/papertrailapp/logback/Syslog4jAppenderTest.java"
+            ]
+        ]
+    },
+    "formicary": {
+        "my-bank": [
+            [
+                "/data/GitHubMining/RawDataSample/java/formicary/my-bank/src/main/java/com/abc/Bank.java",
+                "/data/GitHubMining/RawDataSample/java/formicary/my-bank/src/test/java/com/abc/BankTest.java"
+            ],
+            [
+                "/data/GitHubMining/RawDataSample/java/formicary/my-bank/src/main/java/com/abc/Customer.java",
+                "/data/GitHubMining/RawDataSample/java/formicary/my-bank/src/test/java/com/abc/CustomerTest.java"
+            ]
+        ]
+    },
+    "anwfr": {
+        "stomp-user-example": [
+            [
+                "/data/GitHubMining/RawDataSample/java/anwfr/stomp-user-example/src/main/java/fr/anw/stompUserExample/server/config/WsConfig.java",
+                "/data/GitHubMining/RawDataSample/java/anwfr/stomp-user-example/src/test/java/fr/anw/stompUserExample/server/WsConfigIntegrationTest.java"
+            ]
+        ]
+    },
+    "welk1n": {
+        "ReverseShell-Java": [
+            [
+                "/data/GitHubMining/RawDataSample/java/welk1n/ReverseShell-Java/src/main/java/generators/ContextExecGenerator.java",
+                "/data/GitHubMining/RawDataSample/java/welk1n/ReverseShell-Java/src/test/java/generators/ContextExecGeneratorTest.java"
+            ]
+        ]
+    },
+    "rcvaram": {
+        "NullUtil": [
+            [
+                "/data/GitHubMining/RawDataSample/java/rcvaram/NullUtil/src/main/java/utils/NullUtils.java",
+                "/data/GitHubMining/RawDataSample/java/rcvaram/NullUtil/src/test/java/utils/NullUtilsTest.java"
+            ]
+        ]
+    },
+    "zeyangli": {
+        "gitlabci-demo-maven-service": [
+            [
+                "/data/GitHubMining/RawDataSample/java/zeyangli/gitlabci-demo-maven-service/src/main/java/com/mycompany/app/App.java",
+                "/data/GitHubMining/RawDataSample/java/zeyangli/gitlabci-demo-maven-service/src/test/java/com/mycompany/app/AppTest.java"
+            ]
+        ]
+    },
+    "Java-Techie-jt": {
+        "spring-boot-mockito": [
+            [
+                "/data/GitHubMining/RawDataSample/java/Java-Techie-jt/spring-boot-mockito/src/main/java/com/javatechie/spring/mockito/api/SpringBootMockitoApplication.java",
+                "/data/GitHubMining/RawDataSample/java/Java-Techie-jt/spring-boot-mockito/src/test/java/com/javatechie/spring/mockito/api/SpringBootMockitoApplicationTests.java"
+            ]
+        ],
+        "spring-reactive-mongo-crud": [
+            [
+                "/data/GitHubMining/RawDataSample/java/Java-Techie-jt/spring-reactive-mongo-crud/src/main/java/com/javatechie/reactive/SpringReactiveMongoCrudApplication.java",
+                "/data/GitHubMining/RawDataSample/java/Java-Techie-jt/spring-reactive-mongo-crud/src/test/java/com/javatechie/reactive/SpringReactiveMongoCrudApplicationTests.java"
+            ]
+        ]
+    },
+    "anomaly2104": {
+        "multi-level-cache-low-level-system-design": [
+            [
+                "/data/GitHubMining/RawDataSample/java/anomaly2104/multi-level-cache-low-level-system-design/src/main/java/com/uditagarwal/service/CacheService.java",
+                "/data/GitHubMining/RawDataSample/java/anomaly2104/multi-level-cache-low-level-system-design/src/test/java/com/uditagarwal/service/CacheServiceTest.java"
+            ]
+        ]
+    },
+    "simpligility": {
+        "ossrh-demo": [
+            [
+                "/data/GitHubMining/RawDataSample/java/simpligility/ossrh-demo/src/main/java/com/simplgility/training/App.java",
+                "/data/GitHubMining/RawDataSample/java/simpligility/ossrh-demo/src/test/java/com/simplgility/training/AppTest.java"
+            ]
+        ]
+    },
+    "esamson": {
+        "logback-luhn-mask": [
+            [
+                "/data/GitHubMining/RawDataSample/java/esamson/logback-luhn-mask/src/main/java/ph/samson/logback/luhn/LuhnMaskingConverter.java",
+                "/data/GitHubMining/RawDataSample/java/esamson/logback-luhn-mask/src/test/java/ph/samson/logback/luhn/LuhnMaskingConverterTest.java"
+            ]
+        ]
+    },
+    "stripe-interview": {
+        "java-interview-prep": [
+            [
+                "/data/GitHubMining/RawDataSample/java/stripe-interview/java-interview-prep/src/main/java/com/stripe/interview/Main.java",
+                "/data/GitHubMining/RawDataSample/java/stripe-interview/java-interview-prep/src/test/java/com/stripe/interview/MainTest.java"
+            ]
+        ]
+    },
+    "giogt": {
+        "kafka-env-config-provider": [
+            [
+                "/data/GitHubMining/RawDataSample/java/giogt/kafka-env-config-provider/src/main/java/org/ggt/kafka/config/provider/MapBuilder.java",
+                "/data/GitHubMining/RawDataSample/java/giogt/kafka-env-config-provider/src/test/java/org/ggt/kafka/config/provider/MapBuilderTest.java"
+            ]
+        ]
+    },
+    "nickliuchao": {
+        "collection": [
+            [
+                "/data/GitHubMining/RawDataSample/java/nickliuchao/collection/src/main/java/com/demo/collection/App.java",
+                "/data/GitHubMining/RawDataSample/java/nickliuchao/collection/src/test/java/com/demo/collection/AppTest.java"
+            ]
+        ]
+    },
+    "SaiUpadhyayula": {
+        "contact-manager": [
+            [
+                "/data/GitHubMining/RawDataSample/java/SaiUpadhyayula/contact-manager/src/main/java/ContactManager.java",
+                "/data/GitHubMining/RawDataSample/java/SaiUpadhyayula/contact-manager/src/test/java/ContactManagerTest.java"
+            ]
+        ]
+    },
+    "ssedano": {
+        "jump-consistent-hash": [
+            [
+                "/data/GitHubMining/RawDataSample/java/ssedano/jump-consistent-hash/src/main/java/com/github/ssedano/hash/JumpConsistentHash.java",
+                "/data/GitHubMining/RawDataSample/java/ssedano/jump-consistent-hash/src/test/java/com/github/ssedano/hash/JumpConsistentHashTest.java"
+            ]
+        ]
+    },
+    "scoutant": {
+        "polyline-decoder": [
+            [
+                "/data/GitHubMining/RawDataSample/java/scoutant/polyline-decoder/src/main/java/org/scoutant/polyline/PolylineDecoder.java",
+                "/data/GitHubMining/RawDataSample/java/scoutant/polyline-decoder/src/test/java/org/scoutant/polyline/PolylineDecoderTest.java"
+            ]
+        ]
+    },
+    "gazgeek": {
+        "springboot-helloworld": [
+            [
+                "/data/GitHubMining/RawDataSample/java/gazgeek/springboot-helloworld/src/main/java/com/gazgeek/helloworld/controller/HomeController.java",
+                "/data/GitHubMining/RawDataSample/java/gazgeek/springboot-helloworld/src/test/java/com/gazgeek/helloworld/HomeControllerTest.java"
+            ]
+        ]
+    },
+    "ruirodri": {
+        "introJUnit": [
+            [
+                "/data/GitHubMining/RawDataSample/java/ruirodri/introJUnit/src/main/java/com/everis/calculadorasimples/Calculadora.java",
+                "/data/GitHubMining/RawDataSample/java/ruirodri/introJUnit/src/test/java/com/everis/calculadorasimples/CalculadoraTest.java"
+            ]
+        ]
+    },
+    "jitpack": {
+        "maven-simple": [
+            [
+                "/data/GitHubMining/RawDataSample/java/jitpack/maven-simple/src/main/java/com/github/jitpack/App.java",
+                "/data/GitHubMining/RawDataSample/java/jitpack/maven-simple/src/test/java/com/github/jitpack/AppTest.java"
+            ]
+        ]
+    },
+    "voucherifyio": {
+        "voucher-code-generator-java": [
+            [
+                "/data/GitHubMining/RawDataSample/java/voucherifyio/voucher-code-generator-java/src/main/java/io/voucherify/generator/VoucherCodes.java",
+                "/data/GitHubMining/RawDataSample/java/voucherifyio/voucher-code-generator-java/src/test/java/io/voucherify/generator/VoucherCodesTest.java"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+# set base image (host OS)
+FROM gradle:8.7.0-jdk17 AS build  
+COPY --from=python:3.10 / /
+
+RUN pip3 install -i http://mirrors.aliyun.com/pypi/simple/ xmltodict pandas javalang
+
+WORKDIR /code

@@ -1,0 +1,11 @@
+docker build -t java8gradle -f Dockerfile_Java_8_Gradle .
+docker build -t java8maven -f Dockerfile_Java_8_Maven .
+docker build -t java11gradle -f Dockerfile_Java_11_Gradle .
+docker build -t java11maven -f Dockerfile_Java_11_Maven .
+docker build -t java14gradle -f Dockerfile_Java_14_Gradle .
+docker build -t java14maven -f Dockerfile_Java_14_Maven .
+docker build -t java17gradle -f Dockerfile_Java_17_Gradle .
+docker build -t java17gradle87 -f Dockerfile_Java_17_Gradle87 .
+docker build -t java17maven -f Dockerfile_Java_17_Maven .
+docker build -t python38 -f Dockerfile_Python_3_8 .
+docker build -t python310 -f Dockerfile_Python_3_10 .
