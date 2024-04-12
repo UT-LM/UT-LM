@@ -10,7 +10,7 @@ The scripts for evaluating UT-LM and other SOTA models are available at [evaluat
 
 ## Models
 
-Our two models, [UT-LM-33b][model1] and [UT-LM-7b][model2], are available at our HuggingFace space
+Our released models, [UT-LM-33b][model1] and [UT-LM-7b][model2], are available at our HuggingFace space
 
 ## Dataset
 
